@@ -13,6 +13,15 @@ the **cache state of a single cache line**, read out through access-timing
 > understand, detect, and mitigate cache side/covert channels. See
 > [Responsible use](#responsible-use).
 
+## 📝 Writeup / 專文
+
+A detailed writeup — motivated by OpenAI's Oct 23, 2026 report
+*Securing our frontier model training environment* — on reproducing this
+channel, the engineering problems involved, measurements, and defensive takeaways:
+
+- English: **[blog/cache-covert-channel-en.md](blog/cache-covert-channel-en.md)**
+- 繁體中文:**[blog/cache-covert-channel-zh.md](blog/cache-covert-channel-zh.md)**
+
 ---
 
 ## English
